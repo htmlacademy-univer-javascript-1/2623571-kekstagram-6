@@ -2,7 +2,6 @@
 
 * Студент: [Михаил Будущев](https://up.htmlacademy.ru/univer-js1/6/user/2623571).
 * Наставник: `Александр Сударев`.
->>>>>>> c0b0aace9cb8cecfc156a795daf49f8bc0258397
 
 ---
 

@@ -3,6 +3,8 @@ function checkStringLength(str, maxLength) {
 }
 
 checkStringLength('проверяемая строка', 20);
+checkStringLength('проверяемая строка', 18);
+checkStringLength('проверяемая строка', 10);
 
 const isPalindrome = (str) => {
   const cleanStr = str.toLowerCase().replace(' ', '');
@@ -10,3 +12,7 @@ const isPalindrome = (str) => {
 };
 
 isPalindrome('топот');
+isPalindrome('ДовОд');
+isPalindrome('Кекс');
+
+checkStringLength('Лёша на полке клопа нашёл ');
